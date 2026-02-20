@@ -1,0 +1,43 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NuGet packages (se usar local)
+*.nupkg
+packages/
+
+# Publish output
+publish/
+
+# Local settings
+appsettings.Development.json
+
+# Temporary files
+*.tmp
+*.temp
+
+# Test results
+TestResults/
+
+# Coverage reports
+coverage/
+
+# Generated CSV or data files (opcional)
+clientes.csv
